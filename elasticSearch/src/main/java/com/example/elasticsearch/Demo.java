@@ -1,4 +1,4 @@
-package com.example.elasticsearch_01_demo.elasticsearch;
+package com.example.elasticsearch;
 
 public class Demo {
     public static void main(String[] args) {

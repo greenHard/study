@@ -1,4 +1,4 @@
-package com.example.elasticsearch_01_demo.elasticsearch;
+package com.example.elasticsearch;
 
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;
@@ -15,7 +15,6 @@ import org.apache.http.message.BasicHeader;
 import org.apache.http.nio.entity.NStringEntity;
 import org.apache.http.ssl.SSLContextBuilder;
 import org.apache.http.ssl.SSLContexts;
-import org.elasticsearch.client.*;
 
 import javax.net.ssl.SSLContext;
 import java.io.IOException;

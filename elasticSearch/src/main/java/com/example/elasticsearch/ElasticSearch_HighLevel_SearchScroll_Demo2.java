@@ -1,7 +1,6 @@
-package com.example.elasticsearch_01_demo.elasticsearch;
+package com.example.elasticsearch;
 
 import org.apache.http.HttpHost;
-import org.elasticsearch.action.search.*;
 import org.elasticsearch.client.RestClient;
 import org.elasticsearch.client.RestHighLevelClient;
 import org.elasticsearch.common.unit.TimeValue;
@@ -11,6 +10,7 @@ import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.builder.SearchSourceBuilder;
 
 import java.io.IOException;
+
 /**
  *  elasticSearch 搜索API
  *

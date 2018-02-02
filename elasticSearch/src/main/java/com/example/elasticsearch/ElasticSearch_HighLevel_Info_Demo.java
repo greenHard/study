@@ -1,4 +1,4 @@
-package com.example.elasticsearch_01_demo.elasticsearch;
+package com.example.elasticsearch;
 
 import org.apache.http.HttpHost;
 import org.elasticsearch.Build;
